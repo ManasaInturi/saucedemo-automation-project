@@ -11,7 +11,7 @@ Build Tool: Maven
 Data Format: JSON
 
 # Key Features:
-Framework Implementation (Selenium + Java + TestNG)
+Framework Implementation (Selenium + Java + Cucumber + TestNG)
 
 **Thread-Safe WebDriver:**
 Implemented ThreadLocal<WebDriver> to ensure thread safety in parallel executions.
