@@ -1,0 +1,37 @@
+[
+	{
+		"id": "TC01",
+		"username":"standard_user",
+		"password":"secret_sauce",
+		"expectedResult":"valid",
+		"description":"Valid login with standard user"
+	},
+	{
+		"id": "TC02",
+		"username":"invalid_user",
+		"password":"wrong_password",
+		"expectedResult":"invalid",
+		"description":"Invalid login with wrong credentials"
+	},
+	{
+		"id": "TC05",
+		"username":"standard_user",
+		"password":"",
+		"expectedResult":"nullPassword",
+		"description":"Login with empty password"
+	},
+	{
+		"id": "TC04",
+		"username":"",
+		"password":"secret_sauce",
+		"expectedResult":"nullUsername",
+		"description":"Login with empty username"
+	},
+	{
+		"id": "TC03",
+		"username":"locked_out_user",
+		"password":"secret_sauce",
+		"expectedResult":"lockedOutUser",
+		"description":"Login with locked out user"
+	}
+]

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Test Suite" parallel="classes" thread-count="2">
+    <listeners>
+        <listener class-name="Utils.Listeners"/>
+    </listeners>
+    <test name="Cucumber Test">
+        <classes>
+            <class name="testRunners.LoginLogoutTests" />
+            <class name="testRunners.FunctionalTests" />
+        </classes>
+    </test>
+</suite>

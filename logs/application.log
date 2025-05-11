@@ -1,0 +1,1423 @@
+2025-05-08 15:20:52 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 15:20:59 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:21:01 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 15:21:09 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:21:10 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 15:21:10 [TestNG-test-Test-1] ERROR Utils.Listeners - Reason: java.lang.AssertionError: The following asserts failed:
+	expected [Epic sadface:: Username and password do not match any user in this service] but found [Epic sadface: Username and password do not match any user in this service]
+2025-05-08 15:21:17 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:21:18 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 15:21:22 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:21:24 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 15:21:28 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 15:47:07 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 15:47:12 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:47:12 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 15:47:18 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:47:19 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 15:47:19 [TestNG-test-Test-1] ERROR Utils.Listeners - Reason: java.lang.AssertionError: The following asserts failed:
+	expected [Epic sadface:: Username and password do not match any user in this service] but found [Epic sadface: Username and password do not match any user in this service]
+2025-05-08 15:47:25 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:47:26 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 15:47:30 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 15:47:31 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 15:47:32 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 16:07:18 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 16:07:22 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:07:22 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:07:25 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:07:26 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 16:07:26 [TestNG-test-Test-1] ERROR Utils.Listeners - Reason: java.lang.AssertionError: The following asserts failed:
+	expected [Epic sadface:: Username and password do not match any user in this service] but found [Epic sadface: Username and password do not match any user in this service]
+2025-05-08 16:07:29 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:07:29 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:07:33 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:07:33 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:07:34 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 16:12:02 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 16:12:06 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:12:07 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:12:10 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:12:10 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 16:12:10 [TestNG-test-Test-1] ERROR Utils.Listeners - Reason: java.lang.AssertionError: The following asserts failed:
+	expected [Epic sadface:: Username and password do not match any user in this service] but found [Epic sadface: Username and password do not match any user in this service]
+2025-05-08 16:12:14 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:12:14 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:12:17 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:12:18 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:12:19 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 16:20:34 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 16:20:38 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:20:38 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:20:42 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:20:42 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 16:20:42 [TestNG-test-Test-1] ERROR Utils.Listeners - Reason: java.lang.AssertionError: The following asserts failed:
+	expected [Epic sadface:: Username and password do not match any user in this service] but found [Epic sadface: Username and password do not match any user in this service]
+2025-05-08 16:20:45 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:20:46 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:20:49 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 16:20:49 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 16:20:50 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 17:27:33 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 17:27:38 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:27:39 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:27:42 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:27:43 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 17:27:46 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:27:46 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:27:50 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:27:50 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:27:51 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 17:37:55 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 17:37:59 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:37:59 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:38:03 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:38:03 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 17:38:06 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:38:07 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:38:11 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:38:11 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:38:11 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 17:53:39 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 17:53:44 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:53:44 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:53:47 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:53:48 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 17:53:51 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:53:51 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:53:55 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 17:53:55 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 17:53:56 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 18:01:15 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 18:01:19 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:01:20 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:01:23 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:01:24 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 18:01:27 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:01:27 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:01:30 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:01:31 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:01:31 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 18:38:51 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 18:38:55 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:38:55 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:38:59 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:38:59 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 18:39:03 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:39:03 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:39:06 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:39:07 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:39:07 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 18:40:13 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 18:40:17 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:40:18 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:40:21 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:40:21 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginAppTest
+2025-05-08 18:40:25 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:40:25 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:40:29 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginAppTest
+2025-05-08 18:40:29 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginAppTest
+2025-05-08 18:40:29 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 18:52:57 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 18:53:01 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 18:53:02 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 18:53:02 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 18:53:05 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 18:53:06 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 18:53:07 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 18:53:09 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 18:53:09 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 18:53:11 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 18:53:11 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 18:53:13 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 18:53:13 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 18:53:14 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 18:53:15 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 18:53:18 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 18:53:18 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 18:53:19 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 19:20:19 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 19:20:24 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:20:24 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:20:24 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:20:27 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:20:27 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:20:29 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:20:31 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:20:31 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:20:32 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:20:32 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:20:35 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:20:35 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:20:36 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:20:36 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:20:40 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:20:40 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:20:41 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 19:23:55 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 19:23:59 [main] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:24:04 [main] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:24:07 [main] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:24:08 [main] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:24:11 [main] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:24:11 [main] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:24:15 [main] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:24:15 [main] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:24:18 [main] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:24:18 [main] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:24:22 [main] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:24:22 [main] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:24:25 [main] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:24:26 [main] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:24:29 [main] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:24:29 [main] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:24:30 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 19:27:42 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 19:27:47 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:27:47 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:27:47 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:27:50 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:27:51 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:27:52 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:27:54 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:27:54 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:27:55 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:27:56 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:27:58 [TestNG-test-Test-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:27:58 [TestNG-test-Test-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:27:59 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:27:59 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:28:02 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: invalidLoginTest
+2025-05-08 19:28:03 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:28:04 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 19:49:18 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 19:49:24 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: Verify a user cannot login with invalid credentials - {password=, expectedResult=nullPassword, username=standard_user}
+2025-05-08 19:49:24 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: Verify a user can login with valid credentials - {password=, expectedResult=nullPassword, username=standard_user}
+2025-05-08 19:49:24 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: Verify a user can login with valid credentials - {password=secret_sauce, expectedResult=nullUsername, username=}
+2025-05-08 19:49:24 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: Verify a user cannot login with invalid credentials - {password=wrong_password, expectedResult=invalid, username=invalid_user}
+2025-05-08 19:49:24 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: Verify a user cannot login with invalid credentials - {password=secret_sauce, expectedResult=valid, username=standard_user}
+2025-05-08 19:49:25 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: Verify a user can login with valid credentials - {password=secret_sauce, expectedResult=valid, username=standard_user}
+2025-05-08 19:49:25 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: Verify a user cannot login with invalid credentials - {password=secret_sauce, expectedResult=nullUsername, username=}
+2025-05-08 19:49:25 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: Verify a user can login with valid credentials - {password=wrong_password, expectedResult=invalid, username=invalid_user}
+2025-05-08 19:49:26 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:49:26 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:49:26 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:49:27 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:49:27 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:49:27 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:49:27 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: invalidLoginTest
+2025-05-08 19:49:31 [TestNG-PoolService-1] ERROR Utils.Listeners - Test failed: invalidLoginTest
+2025-05-08 19:49:32 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 19:53:11 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 19:53:16 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:53:16 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:53:16 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:53:16 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: validLoginTest
+2025-05-08 19:53:17 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:53:17 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:53:18 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: validLoginTest
+2025-05-08 19:53:19 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: validLoginTest
+2025-05-08 19:53:20 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 19:54:41 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 19:54:45 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 19:54:46 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 19:54:46 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 19:54:46 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 19:54:46 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 19:54:46 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 19:54:46 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 19:54:46 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 19:54:47 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:08:14 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:08:18 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:08:18 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:08:18 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:08:19 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:08:19 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:08:19 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:08:19 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:08:19 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:08:20 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:23:35 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:23:40 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:23:40 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:23:40 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:23:40 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:23:41 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:23:41 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:23:41 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:23:41 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:23:42 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:39:52 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:39:56 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:39:56 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:39:57 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:39:57 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:39:57 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:39:57 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:39:57 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:39:58 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:40:41 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:40:45 [main] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:40:45 [main] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:40:49 [main] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:40:49 [main] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:40:52 [main] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:40:53 [main] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:40:56 [main] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:40:56 [main] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:40:57 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:43:33 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:43:36 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:43:37 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:43:40 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:43:40 [TestNG-test-Test-1] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:43:43 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:43:44 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:43:47 [TestNG-test-Test-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:43:48 [TestNG-test-Test-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:43:48 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:47:53 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:47:57 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:47:58 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:47:58 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:47:58 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:47:58 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:47:59 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:47:59 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:47:59 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:48:00 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:48:35 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:48:39 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:48:40 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:48:40 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:48:40 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:48:40 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:48:40 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:48:42 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:48:42 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:48:43 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:49:36 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:49:42 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:49:42 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:49:42 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:49:42 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:49:42 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:49:42 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:49:44 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:50:34 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:50:38 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:50:38 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:50:38 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:50:39 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:50:39 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:50:39 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:50:39 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:51:36 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:51:40 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:51:40 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:51:40 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:51:41 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:51:41 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:51:41 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:51:41 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:51:41 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:51:42 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:52:24 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:52:29 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:52:29 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:52:29 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:52:29 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:52:29 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:52:30 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:52:30 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:52:30 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:52:30 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-08 20:53:15 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-08 20:53:19 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:53:19 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:53:20 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:53:20 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:53:20 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-08 20:53:21 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:53:21 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-08 20:53:21 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-08 20:53:22 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 14:16:56 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 14:17:02 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:17:02 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:17:03 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:17:03 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:17:03 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:17:03 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 14:17:05 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:17:05 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:17:06 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 14:29:49 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 14:29:54 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:29:55 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:29:55 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:29:55 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:29:55 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:29:55 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:29:55 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:29:56 [TestNG-PoolService-5] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 14:29:56 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:31:02 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 14:31:07 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:31:07 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:31:07 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:31:07 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:31:07 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:31:08 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:31:08 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:31:08 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:31:08 [TestNG-PoolService-5] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 14:31:08 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 14:31:09 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 14:32:36 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 14:32:41 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:32:41 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:32:41 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:32:42 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:32:42 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:32:42 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:32:42 [TestNG-PoolService-5] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 14:32:42 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:32:43 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 14:32:43 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 14:32:44 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 15:23:02 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 15:23:08 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:23:10 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:23:10 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:23:10 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:23:10 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:23:10 [TestNG-PoolService-5] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 15:23:10 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:23:10 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:23:11 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:23:11 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:23:12 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 15:25:51 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 15:25:55 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:25:55 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:25:56 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:25:56 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:25:56 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:25:56 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:25:57 [TestNG-PoolService-5] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:25:57 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:25:57 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:25:57 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:25:58 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 15:44:36 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 15:44:42 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:44:42 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:44:43 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:44:43 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:44:43 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:44:43 [TestNG-PoolService-4] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 15:44:44 [TestNG-PoolService-1] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 15:44:44 [TestNG-PoolService-3] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 15:44:44 [TestNG-PoolService-2] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 15:44:44 [TestNG-PoolService-5] ERROR Utils.Listeners - Test failed: loginApplicationTest
+2025-05-09 15:44:45 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 15:51:40 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 15:51:46 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:51:46 [TestNG-PoolService-5] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 15:51:47 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 16:07:33 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 16:07:38 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:07:38 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:07:39 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:07:39 [TestNG-PoolService-5] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:07:39 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:07:39 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:07:40 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:07:40 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:07:41 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:07:41 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:07:42 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 16:15:17 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 16:15:22 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:15:22 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:15:22 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:15:22 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:15:23 [TestNG-PoolService-5] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:15:23 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:15:23 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:15:23 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:15:24 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:15:24 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:15:25 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-09 16:31:36 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-09 16:31:42 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:31:42 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:31:42 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:31:42 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:31:43 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-09 16:31:43 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:31:43 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:31:43 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:31:43 [TestNG-PoolService-5] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:31:43 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-09 16:31:44 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-10 00:00:08 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-10 00:00:12 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 00:00:12 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 00:00:13 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 00:00:13 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 00:00:13 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 00:00:13 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 00:00:13 [TestNG-PoolService-5] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 00:00:13 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 00:00:14 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 00:00:15 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 00:00:16 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-10 17:02:05 [main] INFO  Utils.Listeners - Test suite started: Test
+2025-05-10 17:02:10 [TestNG-PoolService-1] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 17:02:10 [TestNG-PoolService-5] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 17:02:10 [TestNG-PoolService-3] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 17:02:10 [TestNG-PoolService-2] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 17:02:10 [TestNG-PoolService-4] INFO  Utils.Listeners - Test started: loginApplicationTest
+2025-05-10 17:02:11 [TestNG-PoolService-4] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 17:02:12 [TestNG-PoolService-3] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 17:02:12 [TestNG-PoolService-2] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 17:02:12 [TestNG-PoolService-5] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 17:02:12 [TestNG-PoolService-1] INFO  Utils.Listeners - Test passed: loginApplicationTest
+2025-05-10 17:02:13 [main] INFO  Utils.Listeners - Test suite finished: Test
+2025-05-10 17:08:26 [main] INFO  Utils.Listeners - Test suite started: Cucumber Test
+2025-05-10 17:08:27 [TestNG-test-Cucumber Test-1] INFO  Utils.Listeners - Test started: runScenario
+2025-05-10 17:08:42 [TestNG-test-Cucumber Test-1] ERROR Utils.Listeners - Test failed: runScenario
+2025-05-10 17:08:42 [TestNG-test-Cucumber Test-1] INFO  Utils.Listeners - Test started: runScenario
+2025-05-10 17:08:56 [TestNG-test-Cucumber Test-1] ERROR Utils.Listeners - Test failed: runScenario
+2025-05-10 17:08:56 [TestNG-test-Cucumber Test-1] INFO  Utils.Listeners - Test started: runScenario
+2025-05-10 17:09:10 [TestNG-test-Cucumber Test-1] ERROR Utils.Listeners - Test failed: runScenario
+2025-05-10 17:09:10 [TestNG-test-Cucumber Test-1] INFO  Utils.Listeners - Test started: runScenario
+2025-05-10 17:09:24 [TestNG-test-Cucumber Test-1] ERROR Utils.Listeners - Test failed: runScenario
+2025-05-10 17:09:25 [main] INFO  Utils.Listeners - Test suite finished: Cucumber Test
+2025-05-10 17:22:16 [main] INFO  Utils.Listeners - Test suite started: Cucumber Test
+2025-05-10 17:23:15 [main] INFO  Utils.Listeners - Test suite finished: Cucumber Test
+2025-05-11 12:02:14 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:02:14 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:02:14 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:02:14 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:16:35 [TestNG-tests-1] INFO  Utils.Listeners - Test suite started: Cucumber Test
+2025-05-11 12:16:51 [TestNG-tests-1] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:16:51 [TestNG-tests-1] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:16:51 [TestNG-tests-1] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:16:51 [TestNG-tests-1] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:19:50 [TestNG-tests-1] INFO  Utils.Listeners - Test suite finished: Cucumber Test
+2025-05-11 12:34:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:34:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:34:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:34:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:40:55 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:41:03 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:41:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:41:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:41:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:41:10 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:41:11 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:41:23 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 12:41:29 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:41:36 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:41:43 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:41:50 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:41:57 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:42:04 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:42:11 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:42:27 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51469}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51469/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2f01a2202328efea11cd1dd9737658ad
+2025-05-11 12:42:28 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:42:44 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51531}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51531/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b46572d0c8428a37b839786cb552ae18
+2025-05-11 12:42:45 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:43:01 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51593}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51593/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a270ecf31731975db01c4fe01c4b3530
+2025-05-11 12:43:03 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:43:18 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51652}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51652/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52643d5fb5bb2c7c082be088169c3498
+2025-05-11 12:43:20 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:43:27 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:43:33 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:43:40 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:43:47 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:43:53 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:44:12 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:44:21 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:44:27 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:44:27 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:44:27 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:44:27 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:44:28 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:44:40 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 12:44:46 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:44:53 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:45:00 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:45:07 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:45:15 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:45:22 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:45:28 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:45:44 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52487}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52487/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b0a11cbd4dd952ef09208bf100752d4
+2025-05-11 12:45:46 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:46:01 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52549}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52549/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a18cb00b1a26403c2d27bd1286ea09bb
+2025-05-11 12:46:03 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:46:19 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52613}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52613/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c26162cf8a976fd5b8ae3722603eeb5f
+2025-05-11 12:46:20 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:46:36 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52674}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52674/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 59c6959713be3d2330005ae1e7566171
+2025-05-11 12:46:37 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:46:44 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:46:51 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:46:57 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:47:04 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:47:11 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:48:51 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:49:00 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:49:07 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:49:07 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 12:49:07 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:49:07 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 12:49:08 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:49:19 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 12:49:25 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:49:32 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:49:40 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:49:47 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:49:55 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:50:02 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:50:09 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:50:25 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53472}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53472/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f1b53a0dac5688ffc0ed564495e27fb
+2025-05-11 12:50:26 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:50:43 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53531}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53531/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c9147555b0265bc9bcf5790ab87fbb8
+2025-05-11 12:50:44 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:51:00 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53603}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53603/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 08ad76c0ba3bb09042c7ac55aa982566
+2025-05-11 12:51:01 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:51:17 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53670}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53670/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e93218672581aac44d9a2cb155c0346c
+2025-05-11 12:51:19 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:51:25 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:51:32 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:51:39 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:51:46 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 12:51:54 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:19:23 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:23:43 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:25:54 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:26:36 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:26:44 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:26:50 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 13:26:50 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 13:26:50 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 13:26:50 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 13:26:51 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:27:02 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 13:27:08 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:27:15 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:27:22 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:27:29 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:27:36 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:27:43 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:27:50 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:28:06 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55502}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55502/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 987637eba544598cf1f5f1c55b67291d
+2025-05-11 13:28:07 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:28:23 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55568}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55568/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: babf2bcc3d4d5ab5c5fdd4ae9197ff33
+2025-05-11 13:28:25 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:28:40 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55636}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55636/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 57188c512160f61fd5039db174db6906
+2025-05-11 13:28:42 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:28:58 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:55703}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55703/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 14d3231dbb8b995781762eac9963e5d4
+2025-05-11 13:28:59 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:29:06 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:29:12 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:29:19 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:29:25 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:29:32 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:29:39 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:49:43 [main] INFO  Utils.Listeners - Test suite started: Cucumber Test
+2025-05-11 13:49:44 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:49:44 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:49:52 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:49:52 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:49:58 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:49:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 13:49:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 13:49:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 13:49:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 13:50:00 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:04 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:10 [TestNG-test-Cucumber Test-2] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 13:50:11 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:17 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:17 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:24 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:25 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:31 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:38 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:45 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:51 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:50:58 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:51:14 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57509}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57509/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94af4b6e7e3a6748c14af48a4a0d6354
+2025-05-11 13:51:15 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:51:31 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57577}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57577/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5606e6c8fc9e3b97b267c92635d48261
+2025-05-11 13:51:32 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:51:48 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57645}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57645/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 25bff3a0f309268ad675e18213d873e2
+2025-05-11 13:51:49 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:52:05 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:57713}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57713/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a70c5cb93ab5de3563b6b401122ebde
+2025-05-11 13:52:07 [main] INFO  Utils.Listeners - Test suite finished: Cucumber Test
+2025-05-11 13:53:42 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:53:51 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:53:57 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 13:53:57 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 13:53:57 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 13:53:57 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 13:53:58 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:54:09 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 13:54:15 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:54:22 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:54:29 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:54:35 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:54:42 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:54:49 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:54:56 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:55:11 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58322}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58322/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 49bba479f505810dd623093f80bde710
+2025-05-11 13:55:13 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:55:28 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58395}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58395/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: baf1394f0f31268c08dbd797bd927b55
+2025-05-11 13:55:30 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:55:46 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58463}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58463/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 998a886a8222114cbc6662e039337d2c
+2025-05-11 13:55:47 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 13:56:03 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:58529}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58529/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 72327f2ae76219ac4606364f57bd2548
+2025-05-11 14:01:51 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:01:59 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:02:05 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 14:02:05 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 14:02:05 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 14:02:05 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 14:02:06 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:02:17 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 14:02:23 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:02:30 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:02:37 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:02:43 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:02:50 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:02:57 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:03:04 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:03:19 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59251}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59251/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92e52c4b16d5b3c62439672366834ed1
+2025-05-11 14:03:21 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:03:36 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59322}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59322/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ac5c54b31cc91c003e6fdd098d68b38
+2025-05-11 14:03:38 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:03:53 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59391}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59391/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b4fb4e554c2d1e2a4665937b31b688b2
+2025-05-11 14:03:55 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:04:10 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59464}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59464/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2c94c2966fbce157243c4a9ee71e3446
+2025-05-11 14:21:23 [main] INFO  Utils.Listeners - Test suite started: Cucumber Test
+2025-05-11 14:21:24 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:24 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:32 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:33 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:39 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 14:21:39 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 14:21:39 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 14:21:39 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 14:21:39 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:40 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:46 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:51 [TestNG-test-Cucumber Test-2] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 14:21:52 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:57 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:21:59 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:04 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:06 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:10 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:17 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:24 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:31 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:38 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:22:54 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60884}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60884/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 88b6210e1305a930282d5f52601dbd58
+2025-05-11 14:22:55 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:23:10 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60950}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60950/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42739c095d77cc4055b3682faa925bed
+2025-05-11 14:23:12 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:23:27 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61016}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61016/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2020832ad1d24f22831fe39c0930ad0a
+2025-05-11 14:23:29 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 14:23:44 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:61084}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61084/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2322ffac190fba183c410759d44dce02
+2025-05-11 14:23:46 [main] INFO  Utils.Listeners - Test suite finished: Cucumber Test
+2025-05-11 16:01:45 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Add a product to the cart And Verify Cart
+2025-05-11 16:01:45 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:01:50 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:01:52 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:01:53 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add a product to the cart And Verify Cart
+2025-05-11 16:01:54 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Add multiple products to the cart And Verify Cart
+2025-05-11 16:01:54 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:01:57 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:01:59 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:00 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:02:00 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:02:00 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:02:00 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:02:00 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add multiple products to the cart And Verify Cart
+2025-05-11 16:02:02 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Remove a product from the cart And Verify Cart
+2025-05-11 16:02:02 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:02:04 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:02:07 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:12 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 16:02:17 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Remove a product from the cart And Verify Cart
+2025-05-11 16:02:19 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:02:19 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:02:21 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:02:24 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:24 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:02:25 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:02:25 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:02:28 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:02:30 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:31 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:02:32 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:02:32 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:02:35 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:02:37 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:38 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:02:39 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:02:39 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:02:41 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:02:44 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:44 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:02:46 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:02:46 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:02:48 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:02:51 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:51 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:02:52 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:02:52 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:02:55 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:02:57 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:02:58 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:02:59 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:02:59 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:03:02 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:03:04 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:03:15 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63399}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63399/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39d56ef6e374e869b3db12a95cfccab6
+2025-05-11 16:03:15 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:03:16 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:03:16 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:03:19 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:03:21 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:03:32 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63465}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63465/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6eccee80ace14d764f7eff4d3bb92280
+2025-05-11 16:03:32 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:03:33 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:03:33 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:03:36 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:03:38 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:03:49 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63534}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63534/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 692f6d971cf15f9dd2d78c513d39b7e8
+2025-05-11 16:03:49 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:03:50 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:03:50 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:03:53 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:03:55 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:04:06 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63603}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63603/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cb244dcbc9dc3aa2be30846520cae807
+2025-05-11 16:04:06 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:08:55 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Valid Credentials
+2025-05-11 16:08:55 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:08:58 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:09:00 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:09:01 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Valid Credentials
+2025-05-11 16:09:02 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Invalid Credentials
+2025-05-11 16:09:02 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:09:04 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:09:07 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC02
+2025-05-11 16:09:07 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Invalid Credentials
+2025-05-11 16:09:09 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Locked-out User Credentials
+2025-05-11 16:09:09 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:09:11 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:09:14 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC03
+2025-05-11 16:09:14 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Locked-out User Credentials
+2025-05-11 16:09:15 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Username
+2025-05-11 16:09:15 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:09:18 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:09:21 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC04
+2025-05-11 16:09:21 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Username
+2025-05-11 16:09:22 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Password
+2025-05-11 16:09:22 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:09:25 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:09:27 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC05
+2025-05-11 16:09:27 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Password
+2025-05-11 16:09:29 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Logout
+2025-05-11 16:09:29 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:09:31 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:09:34 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:09:35 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Logout
+2025-05-11 16:09:35 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate all product names and prices are displayed correctly
+2025-05-11 16:09:35 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:09:38 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:09:40 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:09:41 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate all product names and prices are displayed correctly
+2025-05-11 16:11:57 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Add a product to the cart And Verify Cart
+2025-05-11 16:11:57 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:00 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:12:03 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:12:03 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add a product to the cart And Verify Cart
+2025-05-11 16:12:05 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Add multiple products to the cart And Verify Cart
+2025-05-11 16:12:05 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:07 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:12:10 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:12:11 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:12:11 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:12:11 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:12:11 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:12:11 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add multiple products to the cart And Verify Cart
+2025-05-11 16:12:12 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Remove a product from the cart And Verify Cart
+2025-05-11 16:12:12 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:14 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:12:17 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:12:23 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 16:12:28 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Remove a product from the cart And Verify Cart
+2025-05-11 16:12:29 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:12:29 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:31 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:12:34 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:12:34 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:12:36 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:12:36 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:38 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:12:41 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:12:41 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:12:43 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:12:43 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:45 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:12:48 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:12:48 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:12:49 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:12:49 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:52 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:12:54 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:12:55 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:12:56 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:12:56 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:12:58 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:13:01 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:13:02 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:13:03 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:13:03 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:13:05 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:13:07 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:13:08 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:13:10 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:13:10 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:13:12 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:13:15 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:13:25 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64717}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64717/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d95a64470bbb767c0dcc1c2e80cfd3e5
+2025-05-11 16:13:25 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:13:27 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:13:27 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:13:29 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:13:32 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:13:42 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64782}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64782/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8763e701fb7b126509e0adcd354c8f0
+2025-05-11 16:13:43 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:13:44 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:13:44 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:13:46 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:13:49 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:13:59 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64850}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64850/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4f9b71bdc5d6f2486bf037e0c95ce866
+2025-05-11 16:14:00 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:14:01 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:14:01 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:14:04 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:14:06 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:14:17 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64920}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64920/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 08d3ea3d26a6d2f85e5b62ef4b0a2caf
+2025-05-11 16:14:17 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:14:19 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Valid Credentials
+2025-05-11 16:14:19 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:14:21 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:14:24 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:14:24 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Valid Credentials
+2025-05-11 16:14:25 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Invalid Credentials
+2025-05-11 16:14:25 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:14:28 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:14:30 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC02
+2025-05-11 16:14:30 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Invalid Credentials
+2025-05-11 16:14:32 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Locked-out User Credentials
+2025-05-11 16:14:32 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:14:34 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:14:37 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC03
+2025-05-11 16:14:37 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Locked-out User Credentials
+2025-05-11 16:14:38 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Username
+2025-05-11 16:14:38 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:14:41 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:14:43 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC04
+2025-05-11 16:14:43 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Username
+2025-05-11 16:14:45 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Password
+2025-05-11 16:14:45 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:14:47 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:14:50 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC05
+2025-05-11 16:14:50 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Password
+2025-05-11 16:14:51 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Logout
+2025-05-11 16:14:51 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:14:54 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:14:56 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:14:57 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Logout
+2025-05-11 16:14:59 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate all product names and prices are displayed correctly
+2025-05-11 16:14:59 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:15:01 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:15:04 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:15:04 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate all product names and prices are displayed correctly
+2025-05-11 16:36:21 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Add a product to the cart And Verify Cart
+2025-05-11 16:36:21 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:36:24 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:36:27 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:36:28 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add a product to the cart And Verify Cart
+2025-05-11 16:36:29 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Add multiple products to the cart And Verify Cart
+2025-05-11 16:36:29 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:36:32 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:36:34 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:36:35 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:36:35 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:36:35 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:36:35 [main] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:36:35 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add multiple products to the cart And Verify Cart
+2025-05-11 16:36:36 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Remove a product from the cart And Verify Cart
+2025-05-11 16:36:36 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:36:39 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:36:41 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:36:47 [main] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 16:36:52 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Remove a product from the cart And Verify Cart
+2025-05-11 16:36:53 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:36:53 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:36:56 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:36:58 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:36:59 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:37:00 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:37:00 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:37:02 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:37:05 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:37:06 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:37:07 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:37:07 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:37:09 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:37:12 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:37:12 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:37:14 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:37:14 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:37:16 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:37:19 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:37:19 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:37:20 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:37:20 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:37:23 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:37:25 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:37:26 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:37:27 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:37:27 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:37:29 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:37:32 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:37:32 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:37:34 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:37:34 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:37:36 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:37:39 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:37:49 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50345}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50345/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6d8abb26e0a10ba694388308c2a4c1dd
+2025-05-11 16:37:49 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:37:51 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:37:51 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:37:53 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:37:56 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:38:06 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50411}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50411/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 804acd20f3cf9c433f1823404073b896
+2025-05-11 16:38:06 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:38:08 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:38:08 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:38:10 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:38:13 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:38:23 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50479}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50479/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f614a960801f2fb64d78711f00e58742
+2025-05-11 16:38:23 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:38:25 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:38:25 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:38:27 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:38:30 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:38:40 [main] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:50548}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50548/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1665866878073599b13f957857810755
+2025-05-11 16:38:40 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:38:42 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Valid Credentials
+2025-05-11 16:38:42 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:38:44 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:38:47 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:38:47 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Valid Credentials
+2025-05-11 16:38:48 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Invalid Credentials
+2025-05-11 16:38:48 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:38:51 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:38:53 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC02
+2025-05-11 16:38:53 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Invalid Credentials
+2025-05-11 16:38:55 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Locked-out User Credentials
+2025-05-11 16:38:55 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:38:57 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:39:00 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC03
+2025-05-11 16:39:00 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Locked-out User Credentials
+2025-05-11 16:39:01 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Username
+2025-05-11 16:39:01 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:39:04 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:39:06 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC04
+2025-05-11 16:39:06 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Username
+2025-05-11 16:39:08 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Password
+2025-05-11 16:39:08 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:39:10 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:39:13 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC05
+2025-05-11 16:39:13 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Password
+2025-05-11 16:39:14 [main] INFO  stepDefinitions.Hooks - Starting Scenario: User Logout
+2025-05-11 16:39:14 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:39:17 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:39:19 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:39:20 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Logout
+2025-05-11 16:39:21 [main] INFO  stepDefinitions.Hooks - Starting Scenario: Validate all product names and prices are displayed correctly
+2025-05-11 16:39:21 [main] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:39:24 [main] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:39:26 [main] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:39:27 [main] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate all product names and prices are displayed correctly
+2025-05-11 16:40:42 [main] INFO  Utils.Listeners - Test suite started: Cucumber Test
+2025-05-11 16:40:43 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Valid Credentials
+2025-05-11 16:40:43 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Add a product to the cart And Verify Cart
+2025-05-11 16:40:43 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:40:43 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:40:46 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:40:46 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:40:49 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:40:49 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:40:49 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Valid Credentials
+2025-05-11 16:40:50 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add a product to the cart And Verify Cart
+2025-05-11 16:40:51 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Invalid Credentials
+2025-05-11 16:40:51 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:40:51 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Add multiple products to the cart And Verify Cart
+2025-05-11 16:40:51 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:40:53 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:40:54 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:40:56 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC02
+2025-05-11 16:40:56 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:40:56 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Invalid Credentials
+2025-05-11 16:40:57 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Locked-out User Credentials
+2025-05-11 16:40:57 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:40:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:40:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Names: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Fleece Jacket]
+2025-05-11 16:40:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Actual Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:40:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.AddProductsAndVerifyCartSteps - Expected Product Prices: [$29.99, $9.99, $15.99, $49.99]
+2025-05-11 16:40:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Add multiple products to the cart And Verify Cart
+2025-05-11 16:41:00 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Remove a product from the cart And Verify Cart
+2025-05-11 16:41:00 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:00 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:02 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC03
+2025-05-11 16:41:02 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:03 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Locked-out User Credentials
+2025-05-11 16:41:04 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Username
+2025-05-11 16:41:04 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:05 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:06 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:08 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC04
+2025-05-11 16:41:10 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Username
+2025-05-11 16:41:11 [TestNG-test-Cucumber Test-2] WARN  pageObjects.CartPage - Cart is empty - no items found.
+2025-05-11 16:41:11 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Starting Scenario: User Login With Empty Password
+2025-05-11 16:41:11 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:13 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:16 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Remove a product from the cart And Verify Cart
+2025-05-11 16:41:16 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC05
+2025-05-11 16:41:16 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Login With Empty Password
+2025-05-11 16:41:17 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:41:17 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:18 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Starting Scenario: User Logout
+2025-05-11 16:41:18 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:20 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:20 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:22 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:23 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:23 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:41:24 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - PASS: Scenario passed: User Logout
+2025-05-11 16:41:24 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:41:24 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:26 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Starting Scenario: Validate all product names and prices are displayed correctly
+2025-05-11 16:41:26 [TestNG-test-Cucumber Test-1] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:27 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:28 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:30 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:30 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:41:31 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:31 [TestNG-test-Cucumber Test-1] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate all product names and prices are displayed correctly
+2025-05-11 16:41:32 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:41:32 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:34 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:37 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:38 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:41:39 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:41:39 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:41 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:44 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:44 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:41:46 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:41:46 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:48 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:51 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:51 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:41:53 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Validate the product details
+2025-05-11 16:41:53 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:41:55 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:41:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:41:58 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Validate the product details
+2025-05-11 16:42:00 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:42:00 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:42:02 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:42:05 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:42:15 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51841}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51841/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 73bcc5d4d5c6e5061ab49e5e88369f90
+2025-05-11 16:42:16 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price Low to High And Validate Order
+2025-05-11 16:42:17 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:42:17 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:42:19 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:42:22 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:42:33 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51911}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51911/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2aaee149d8fb30959dcbb4beed787832
+2025-05-11 16:42:33 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Price High to Low And Validate Order
+2025-05-11 16:42:34 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:42:34 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:42:36 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:42:39 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:42:50 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51979}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51979/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cb17543f95298645153205c2bb26aa78
+2025-05-11 16:42:50 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name A to Z And Validate Order
+2025-05-11 16:42:51 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Starting Scenario: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:42:51 [TestNG-test-Cucumber Test-2] INFO  Utils.BaseTest - Initializing browser: edge-headless
+2025-05-11 16:42:53 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Navigating to URL: https://www.saucedemo.com
+2025-05-11 16:42:56 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - Test data loaded for tag: @TC01
+2025-05-11 16:43:06 [TestNG-test-Cucumber Test-2] ERROR Utils.BaseTest - Alert not present: Expected condition failed: waiting for alert to be present (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 136.0.3240.64, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52047}, msedge: {msedgedriverVersion: 136.0.3240.64 (e3a39d3fa3c6..., userDataDir: C:\Users\user\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52047/devtoo..., se:cdpVersion: 136.0.3240.64, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c521deedc336150bd8fb78e350c49fe9
+2025-05-11 16:43:07 [TestNG-test-Cucumber Test-2] INFO  stepDefinitions.Hooks - PASS: Scenario passed: Sort Products By Name Z to A And Validate Order
+2025-05-11 16:43:09 [main] INFO  Utils.Listeners - Test suite finished: Cucumber Test
