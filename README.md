@@ -46,6 +46,9 @@ Report HTML file is automatically launched in the default browser after test exe
 **Execution in full browser and headless mode:**
 Cofigurations for cross browser testing in full browser mode and headless mode.
 
+**Parallel execution**
+parallel execution of tests through testng.xml
+
 # Cucumber Integration
 
 **Cucumber BDD Structure:**
@@ -62,6 +65,7 @@ Generates a clean cucumber-html report after execution from the TestRunner class
 
 **Enhanced tagging for scenario filtering**
 Using tags for better scenario grouping or filtering while execution
+
 
 # Project Structure
 src
@@ -95,6 +99,7 @@ Right-click on TestRunner files(SmokeTests.java, LoginLogoutTests.java, Function
 
 **TestNG execution**
 Right-click on testng.xml → Run As → TestNG Suite
+Parallel execution
 
 # Reports
 **Extent Reports**
